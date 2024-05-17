@@ -1,0 +1,8 @@
+①silyoueisilyagazou.py・・・画像ファイルのスプレイピング
+
+スプレイピングした画像はフォルダ「siyoueiimage」に抽出
+
+
+②silyoueisilyaitirannpage.py・・・一覧ページのスプレイピング。結果は「notebook_2023103122.csv」
+
+③silyoueisilyaitirannpegepandas.py・・・一覧ページのスプレイピング。結果は「books.xlsx」
