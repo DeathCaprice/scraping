@@ -28,6 +28,7 @@ sbクリエイティブの詳細ページの書名、著者名、サブタイト
 
 ☆以下、翔泳社のスクレイピング
 （https://www.seshop.com/）
+
 〇スクレイピング(3)/翔泳社/一覧ページ
 ①silyoueisilyagazou.py・・・画像ファイルのスプレイピング
 スプレイピングした画像はフォルダ「siyoueiimage」に抽出しております。
@@ -39,6 +40,7 @@ silyoueisilyasilyousaipage.py・・・書名　著者名 発売日 ISBN  判型 
 〇スクレイピング(4)/技術評論書籍画像/itiranngazou.py
 技術評論書籍サイトの画像を抽出しました。
 (https://gihyo.jp/book/list?start=0)
+
 画像ファイルはファイルアップロード時に許容範囲を超えたため別のフォルダの
 /技術評論書籍画像①/gihiyou①/
 /技術評論書籍画像②/gihiyou②/
