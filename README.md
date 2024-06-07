@@ -34,11 +34,13 @@ sbクリエイティブの詳細ページの書名、著者名、サブタイト
 スプレイピングした画像はフォルダ「siyoueiimage」に抽出しております。
 ②silyoueisilyaitirannpage.py・・・一覧ページのスプレイピング。結果は「notebook_2023103122.csv」
 ③silyoueisilyaitirannpegepandas.py・・・一覧ページのスプレイピング。結果は「books.xlsx」
+
 〇スクレイピング(3)/翔泳社/詳細ページ/
 silyoueisilyasilyousaipage.py・・・書名　著者名 発売日 ISBN  判型 ページ数 画像urlを抽出しました。
 
 〇スクレイピング(4)/技術評論書籍画像/itiranngazou.py
 技術評論書籍サイトの画像を抽出しました。
+
 (https://gihyo.jp/book/list?start=0)
 
 画像ファイルはファイルアップロード時に許容範囲を超えたため別のフォルダの
