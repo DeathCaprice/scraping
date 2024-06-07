@@ -43,12 +43,3 @@ silyoueisilyasilyousaipage.py・・・書名　著者名 発売日 ISBN  判型 
 /技術評論書籍画像①/gihiyou①/
 /技術評論書籍画像②/gihiyou②/
 にアップロードしております。
-
-
-
-
-
-
-
-
-
