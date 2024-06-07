@@ -6,7 +6,7 @@ sbクリエイティブ（https://www.sbcr.jp/books/investment/）の一覧ペ�
 
 〇スクレイピング(1)/sbクリエイティブ/詳細ページ/sbsilyousaipage.py
 sbクリエイティブ（https://www.sbcr.jp/books/investment/）の詳細ページの書名、著者名、サブタイトル、記事、定価、発売日、ISBN、サイズ、ページ数、画像を抽出しました。
-尚、画像ファイルはファイルアップロード時の許容範囲を超えたため別のフォルダの「SBCR社の画像スプレイピング」にアップロードしております。
+尚、画像ファイルはファイルアップロード時に許容範囲を超えたため別のフォルダの「SBCR社の画像スプレイピング」にアップロードしております。
 
 〇スクレイピング(2)/技術評論書籍/一覧ページ/gihiyousinnkanitiran.py
 技術評論書籍サイト（https://gihyo.jp/book/list?start=0）の一覧ページ（トップページ）の書名 著者名 定価 詳細ページURLを抽出しました。
@@ -26,6 +26,17 @@ sbクリエイティブ（https://www.sbcr.jp/books/investment/）の詳細ペ�
 ③silyoueisilyaitirannpegepandas.py・・・一覧ページのスプレイピング。結果は「books.xlsx」
 〇スクレイピング(3)/翔泳社/詳細ページ/
 silyoueisilyasilyousaipage.py・・・書名　著者名 発売日 ISBN  判型 ページ数 画像urlを抽出しました。
+
+〇スクレイピング(4)/技術評論書籍画像/itiranngazou.py
+技術評論書籍サイト(https://gihyo.jp/book/list?start=0)の画像を抽出しました。
+画像ファイルはファイルアップロード時に許容範囲を超えたため別のフォルダの
+/技術評論書籍画像①/gihiyou①/
+/技術評論書籍画像②/gihiyou②/
+にアップロードしております。
+
+
+
+
 
 
 
